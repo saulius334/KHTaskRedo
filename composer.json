@@ -2,7 +2,7 @@
     "name": "saulius/kh-task-redo",
     "autoload": {
         "psr-4": {
-            "Saulius\\KhTaskRedo\\": "src/"
+            "KHTaskRedo\\": "src/"
         }
     },
     "authors": [
